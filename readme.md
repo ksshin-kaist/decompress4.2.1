@@ -1,4 +1,5 @@
 # decompress [![Build Status](https://travis-ci.org/kevva/decompress.svg?branch=master)](https://travis-ci.org/kevva/decompress)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fdecompress4.2.1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fdecompress4.2.1?ref=badge_shield)
 
 > Extracting archives made easy
 
@@ -103,3 +104,6 @@ Remove leading directory components from extracted files.
 ## License
 
 MIT © [Kevin Mårtensson](https://github.com/kevva)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fdecompress4.2.1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fdecompress4.2.1?ref=badge_large)
